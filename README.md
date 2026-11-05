@@ -59,7 +59,7 @@ Spendly helps you keep a cash book, separate bank ledgers and clear income/expen
 - **Move money with context.** Income, expense and transfers with dates, notes and transaction history editing/deletion subject to ledger validation.
 - **Keep the screen quiet.** Day, week, month, year, custom range and all-time choices live inside the filter; the main view keeps the result in focus.
 - **Read it your way.** Light/Dark themes; English, Malayalam, Arabic and Hindi, including RTL layouts.
-- **Set one ledger currency.** INR, AED, SAR, QAR, KWD, BHD, OMR, USD, EUR, GBP and CHF. Three-decimal GCC currencies are represented with their correct minor-unit scale. This is not an exchange-rate or multi-currency conversion service.
+- **Set one ledger currency.** INR, AED, SAR, QAR, KWD, BHD, OMR, USD, EUR, GBP and CHF. Three-decimal GCC currencies are represented with their correct minor-unit scale. Set the currency before recording financial history; existing history locks the currency. This is not an exchange-rate or multi-currency conversion service.
 - **Keep control.** Local financial storage, PIN/security controls and backup/restore. Bank accounts are manually maintained ledgers, not connections to your bank.
 
 ## 📲 Install once. Update in the app.
