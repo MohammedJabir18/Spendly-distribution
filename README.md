@@ -1,1 +1,5 @@
-IyBTcGVuZGx5IGRpc3RyaWJ1dGlvbgoKVGhpcyBwdWJsaWMgcmVwb3NpdG9yeSBob3N0cyB2ZXJpZmllZCBTcGVuZGx5IEFQSyByZWxlYXNlcyBhbmQgc2lnbmVkIHVwZGF0ZSBtZXRhZGF0YSBvbmx5LiBBcHBsaWNhdGlvbiBzb3VyY2UgcmVtYWlucyBwcml2YXRlLgoKVXBkYXRlIGNoYW5uZWwgYWN0aXZhdGlvbiBhbmQgdmVyaWZpY2F0aW9uIGFyZSBpbiBwcm9ncmVzcy4K
+# Spendly distribution
+
+Public Spendly APK releases and signed update metadata only. Application source remains private.
+
+Bootstrap 1.1.0 is undergoing hosted-channel acceptance. Existing installations should be updated in place; do not uninstall and lose local records.
