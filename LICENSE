@@ -1,21 +1,34 @@
-MIT License
+Spendly Proprietary License
+Copyright (c) 2026 Mohammed Jabir. All rights reserved.
 
-Copyright (c) 2026 Mohammed Jabir
+This license covers only original Spendly software, documentation and assets
+owned by Mohammed Jabir. Third-party components retain their own licenses.
+Rights granted by third-party licenses or required by applicable law are not
+restricted by this document.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may install official Spendly APKs without a license fee for personal or
+internal business use. You may share an unchanged official APK without charge,
+preserving its signing identity and copyright/license notices and without
+misrepresenting authorship or endorsement. Source-code access is not granted.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Separate written permission is required to publish or distribute source code,
+modify original Spendly software/assets, distribute modified or rebranded
+builds, sublicense, sell or rent Spendly, or use its branding for another
+product. Access to a private repository is not permission to publish it.
+No trademark rights are granted.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Open-source dependencies and fonts remain under their respective licenses.
+Preserve required third-party license and attribution notices. Reference
+applications/APKs are excluded and are not authorized Spendly distributions.
+
+TO THE EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT
+WARRANTY, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT. TO THE EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT
+LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE.
+Rights and liabilities that cannot lawfully be excluded remain unaffected.
+
+Licensing inquiries: jabirahmedz111@gmail.com
+Website: https://mohammedjabir.me
+
+This is a proprietary license, not an open-source license. It does not purport
+to revoke permissions already validly granted under earlier license terms.
