@@ -1,0 +1,2 @@
+# Media notes
+Screenshots are recorded November2026 native acceptance screens with demonstration data, not live client sessions. The small receipt GIF is original brand artwork, not an interaction recording. The user-facing update workflow was generated and browser-validated with Archify; download its HTML to use the interactive viewer. Archify viewer components retain their MIT license in ARCHIFY-LICENSE.txt. Application source remains private. Screens may differ in later versions.
